@@ -111,7 +111,7 @@
   <!--This configuration will differ from previous example-->
 
   <login-config>
-    <auth-method>DIGEST</auth-method>
+    <auth-method>FORM</auth-method>
     <realm-name>file</realm-name>
     <form-login-config>
       <form-login-page>/login.jsp</form-login-page>
